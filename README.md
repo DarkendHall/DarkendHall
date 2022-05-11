@@ -1,10 +1,10 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <div align="center">
 <div>
-    <h4><u>About me:</u></h4>
     <p>I am currently studying to become a Java Developer @IT-Högskolan, Gothenburg. During the studies we have worked in groups/teams in several of the projects. In these projects I have taken on a bit more of an administrative role. I made sure we made a plan before we started, after that I started setting up issues to make sure the plan was followed and set up a CI/CD pipeline. Whenever someone in the team needed help I tried to help to the best of my abilities, sometimes maybe helping a bit too much.</p>
-    <p>I'm eager to learn, like to work in a group/team and solve problems.</p>
-<h4>Some things I have worked with, ranked in order of knowledge:</h4>
+    <p>I'm eager to learn, like to work in a group/team and solve problems. <br>Some of my interests include gaming, programming, cars, motorcycles and ice hockey.</p>
+    <br>
+    <h4>Some things I have worked with, ranked in order of knowledge:</h4>
     <div>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/> 
@@ -17,9 +17,7 @@
         <br>
         <small><small>More detailed list further down.</small></small>
     </div>
-    <div>
-        <p>Some of my interests are gaming, programming, cars, motorcycles and ice hockey.
-    </div>
+    <br>
     <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=darkendhall&show_icons=true&count_private=true&theme=dark" width="350" alt="GitHub stats"></a>
     <div>
     <h4>My Setup:</h4>
