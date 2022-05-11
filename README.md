@@ -1,27 +1,53 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <div align="center">
 <div>
-    <h1>Hello I'm Marcus!</h1>
-    <p>
-        Java Developer Student! <br>
-        Currently studying the Java Developer program @IT-Högskolan, Gothenburg
-    </p>
+    <h4><u>About me:</u></h4>
+    <p>I am currently studying to become a Java Developer @IT-Högskolan, Gothenburg. During the studies we have worked in groups/teams in several of the projects. In these projects I have taken on a bit more of an administrative role. I made sure we made a plan before we started, after that I started setting up issues to make sure the plan was followed and set up a CI/CD pipeline. Whenever someone in the team needed help I tried to help to the best of my abilities, sometimes maybe helping a bit too much.</p>
+    <p>I'm eager to learn, like to work in a group/team and solve problems.</p>
+<h4>Some things I have worked with, ranked in order of knowledge:</h4>
     <div>
-        <a href="https://www.linkedin.com/in/marcus-leeman/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+        <img src="https://www.svgrepo.com/show/354051/maven.svg" alt="maven" width="50" height="50">
+        <img src="https://www.svgrepo.com/show/330758/junit5.svg" alt="junit5" width="50" height="50">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
+        <br>
+        <small><small>More detailed list further down.</small></small>
+    </div>
+    <div>
+        <p>Some of my interests are gaming, programming, cars, motorcycles and ice hockey.
+    </div>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=darkendhall&show_icons=true&count_private=true&theme=dark" width="350" alt="GitHub stats"></a>
+    <div>
+    <h4>My Setup:</h4>
+    <div>
+        <img src="https://img.shields.io/badge/Processor-core%20i7%209700K-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" alt="Processor info">
+        <img src="https://img.shields.io/badge/MEMORY-32GB_DDR4_2666MHz-%230071C5.svg?&style=for-the-badge&logoColor=white" alt="RAM info">
+        <img src="https://img.shields.io/badge/Graphics_Card-gtx%201080TI-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" alt="Graphics card info">
+        <img src="https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="OS info">
+    </div>
+</div>
+</div>
+
+---
+
+<div>
+    <div>
+        <p>Want to get in touch with me?:</p>
+            <p>Send a mail to <a href='mailto:leeman_1998@hotmail.com'>leeman_1998@hotmail.com</a></p>
+            <p>Send a message on Discord: DarkendHall#4380</p>
+    </div>
+    <div><a href="https://www.linkedin.com/in/marcus-leeman/">
             <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo"/>
         </a>&nbsp;&nbsp;
         <a href='mailto:leeman_1998@hotmail.com'>
-            <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook logo"/>
+            <img src="https://img.shields.io/badge/Mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook logo"/>
         </a>
-        <br>
-        <br>
-        <p>Ways to reach me:</p>
-            <p>Send a mail to <a href='mailto:leeman_1998@hotmail.com'>leeman_1998@hotmail.com</a></p>
-            <p>Send a message on Discord: DarkendHall#4380</p>
-        </div>
-        <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=darkendhall&show_icons=true&count_private=true&theme=dark" width="350" alt="GitHub stats"></a>
     </div>
-
+</div>
 
 ---
 
@@ -31,70 +57,8 @@
 
 ---
 
-<div>
-    <h3 style="text-decoration: underline">Technologies I have worked with and studied:</h3>
-    <br>
-    <div>
-        <h4><u>Java technologies</u></h4>
-            <p>Maven</p>
-            <p>Java/Jakarta EE</p>
-            <p>Spring Boot</p>
-            <p>JMS/ActiveMQ Artemis</p>
-            <p>JavaFX</p>
-            <p>Hibernate</p>
-            <p>JUnit5/Mockito/AssertJ</p>
-        <br>
-        <h4><u>Database Technologies</u></h4>
-            <p>JDBC/JPA</p>
-            <p>MySQL</p>
-            <p>MongoDB</p>
-        <br>
-        <h4><u>GIT</u></h4>
-            <p>Console commands</p>
-            <p>GitHub</p>
-            <p>GitHub Actions</p>
-        <br>
-        <h4><u>IDEs</u></h4>
-            <p>IntelliJ</p>
-            <p>Visual Studio</p>
-            <p>MySQL Workbench</p>
-            <p>Visual Studio Code</p>
-        <br>
-        <h4><u>Web Services</u></h4>
-            <p>Microservices</p>
-            <p>RESTful API</p>
-            <p>Swagger/OpenAPI</p>
-        <br>
-        <h4><u>Other</u></h4>
-            <p>TDD</p>
-            <p>MVC</p>
-            <p>CI/CD pipeline</p>
-            <p>GitHub actions</p>
-            <p>Docker</p>
-        <br>
-        <h4><u>Some knowledge in</u></h4>
-            <p>JavaScript, HTML, CSS</p>
-            <p>C++</p>
-            <p>Kubernetes</p>
-        <br>
-        <h4><u>Interests</u></h4>
-            <p>Gaming</p>
-            <p>PC Hardware and Software</p>
-            <p>Programming</p>
-            <p>Cars</p>
-            <p>Motorcycles</p>
-        <br>
-        <h4><u>Qualities</u></h4>
-            <p>Eager to learn</p>
-            <p>Problem-solver</p>
-            <p>Team-player</p>
-    </div>
-</div>
-
----
-
 <div align="center">
-    <h3><u>Projects during my studies:</u></h3>
+    <h3><u>Projects I have worked on during my studies:</u></h3>
     <div style="display: inline-block;">
         <br>
         <p><b>Class project in Java tools & Build environments course: <a href="https://github.com/fungover/storm">Storm</a></b></p>
@@ -111,13 +75,66 @@
 ---
 
 <div>
-    <h3><u>Current Setup:</u></h3>
-    <br>
-    <div>
-        <img src="https://img.shields.io/badge/Processor-core%20i7%209700K-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" alt="Processor info">
-        <img src="https://img.shields.io/badge/RAM-32GB_DDR4_2666MHz-%230071C5.svg?&style=for-the-badge&logoColor=white" alt="RAM info">
-        <img src="https://img.shields.io/badge/Graphics_Card-gtx%201080TI-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" alt="Graphics card info">
-        <img src="https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="OS info">
+    <h3 style="text-decoration: underline">Detailed list of things I have worked with and studied:</h3>
+    <br>    
+    <div align="left">
+    <ul>
+        <li>Java</li>
+        <ul>
+            <li>Maven</li>
+            <li>Java/Jakarta EE</li>
+            <li>Spring Boot</li>
+            <li>JMS/ActiveMQ Artemis</li>
+            <li>JavaFX</li>
+            <li>Hibernate</li>
+            <li>JUnit5/Mockito/AssertJ</li>
+        </ul>
+        <br>
+        <li>Database</li>
+        <ul>
+            <li>JDBC/JPA</li>
+            <li>MySQL</li>
+            <li>MongoDB</li>
+        </ul>
+        <br>
+        <li>Version Control</li>
+        <ul>
+            <li>GIT Console commands</li>
+            <li>GitHub</li>
+        </ul>
+        <br>
+        <li>IDEs</li>
+        <ul>
+            <li>IntelliJ</li>
+            <li>Visual Studio</li>
+            <li>MySQL Workbench</li>
+            <li>Visual Studio Code</li>
+        </ul>
+        <br>
+        <li>Webservices</li>
+        <ul>
+            <li>Microservice</li>
+            <li>RESTful API</li>
+            <li>Swagger/OpenAPI</li>
+        </ul>
+        <br>
+        <li>Other</li>
+        <ul>
+            <li>TDD</li>
+            <li>MVC</li>
+            <li>CI/CD pipeline</li>
+            <li>GitHub actions</li>
+            <li>Docker</li>
+        </ul>
+        <br>
+        <li>Some knowledge in</li>
+        <ul>
+            <li>JavaScript, HTML, CSS</li>
+            <li>C++</li>
+            <li>Kubernetes</li>
+        </ul>
+    </ul>
     </div>
+
 </div>
 </div>
