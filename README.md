@@ -7,7 +7,7 @@
         Currently studying the Java Developer program @IT-Högskolan, Gothenburg
     </p>
     <div>
-        <a href="https://www.linkedin.com/in/marcus-leeman-a2822b205/">
+        <a href="https://www.linkedin.com/in/marcus-leeman/">
             <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo"/>
         </a>&nbsp;&nbsp;
         <a href='mailto:leeman_1998@hotmail.com'>
@@ -54,33 +54,33 @@
             <p>GitHub</p>
             <p>GitHub Actions</p>
         <br>
-        <h4><u>Docker</u></h4>
-            <p>Kubernetes</p>
-        <br>
         <h4><u>IDEs</u></h4>
             <p>IntelliJ</p>
             <p>Visual Studio</p>
             <p>MySQL Workbench</p>
             <p>Visual Studio Code</p>
         <br>
-        <h4><u>Work techniques</u></h4>
-            <p>TDD</p>
-            <p>MVC</p>
-            <p>CI/CD pipeline</p>
-            <p>GitHub actions</p>
-        <br>
         <h4><u>Web Services</u></h4>
             <p>Microservices</p>
             <p>RESTful API</p>
             <p>Swagger/OpenAPI</p>
         <br>
+        <h4><u>Other</u></h4>
+            <p>TDD</p>
+            <p>MVC</p>
+            <p>CI/CD pipeline</p>
+            <p>GitHub actions</p>
+            <p>Docker</p>
+        <br>
         <h4><u>Some knowledge in</u></h4>
             <p>JavaScript, HTML, CSS</p>
             <p>C++</p>
+            <p>Kubernetes</p>
         <br>
         <h4><u>Interests</u></h4>
             <p>Gaming</p>
             <p>PC Hardware and Software</p>
+            <p>Programming</p>
             <p>Cars</p>
             <p>Motorcycles</p>
         <br>
