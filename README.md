@@ -1,10 +1,10 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <div align="center">
 <div>
-    <p>I am currently studying to become a Java Developer @IT-Högskolan, Gothenburg. During the studies we have worked in groups/teams in several of the projects. In these projects I have taken on a bit more of an administrative role. I made sure we made a plan before we started, after that I started setting up issues to make sure the plan was followed and set up a CI/CD pipeline. Whenever someone in the team needed help I tried to help to the best of my abilities, sometimes maybe helping a bit too much.</p>
-    <p>I'm eager to learn, like to work in a group/team and solve problems. <br>Some of my interests include gaming, programming, cars, motorcycles and ice hockey.</p>
+    <p>I am a recently graduated Java Developer. During my education I have worked in groups/teams in several of the projects. In these projects I have taken on a bit more of an administrative role. I made sure we had a plan before we started coding, I was usually the one who set up a CI/CD pipeline and made sure the GitHub issues/boards were always up-to-date. Whenever someone needed help, even if they were not a part of my group, I always tried to help them the best of I could.</p>
+    <p>I like problem-solving, working in a team, and I'm always eager to learn and improve my skill set. <br>Some of my interests include gaming, programming, cars, motorcycles, ice hockey and floorball.</p>
     <br>
-    <h4>Some things I have worked with, ranked in order of knowledge:</h4>
+    <h4>Some of the things I have worked with:</h4>
     <div>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="50" height="50"/> 
@@ -36,9 +36,7 @@
 
 <div>
     <div>
-        <p>Want to get in touch with me?:</p>
-            <p>Send a mail to <a href='mailto:leeman_1998@hotmail.com'>leeman_1998@hotmail.com</a></p>
-            <p>Send a message on Discord: DarkendHall#4380</p>
+        <p>Want to get in touch with me?</p>
     </div>
     <div><a href="https://www.linkedin.com/in/marcus-leeman/">
             <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo"/>
@@ -52,30 +50,35 @@
 ---
 
 <div>
-    <p>Looking for work <i>part-time</i> and/or an <i>internship</i> during my studies!</p>
+    <p>I am currently looking for employment!</p>
 </div>
 
 ---
 
 <div align="center">
-    <h3>Projects I have worked on during my studies:</h3>
+    <h3>Experience and projects I have worked on:</h3>
     <div style="display: inline-block;">
+        <p><b>Internship at <a href="https://github.com/digitalroute">DigitalRoute</a></b></p>
+        <p>I worked in one of their development teams that developed and maintained code written in mainly Java with UI:s in Swing and Vaadin (Web). Some of the day-to-day work included refactoring code to be compatible with both Vaadin and Swing, implementing new features as well as fixing bugs and SonarQube/SonarCloud issues.</p>
         <br>
-        <p><b>Class project in Java tools & Build environments course: <a href="https://github.com/fungover/storm">Storm</a></b></p>
-        <p>A simple webserver implementation where we practiced using pull-requests, issues and a CI pipeline</p>
+        <p><b>Final project for the course "Webservices": <a href="https://github.com/darkendhall/url_shortener">url_shortener</a></b></p>
+        <p>A simple URL shortener, there are three different implementations for this service. A Spring Boot version, a Micronaut version and a Quarkus version. The Spring Boot version is the most "simple" version, it only supports building the java code into a docker image. The Quarkus version is almost the same as the Spring Boot version except the ability to package the application into a native image which can then be put in a docker image. The final version, the Micronaut version, also supports building into a native image which can then be put in a docker image, but also includes Consul service discovery functionality.</p>
         <br>
-        <p><b>Final group project in Spring Boot for our Java EE/Spring boot course: <a href="https://github.com/DarkendHall/Slutprojekt_Java_EE">Slutprojekt_Java_EE</a></b></p>
+        <p><b>Final group project in Spring Boot for our "Java EE/Spring boot" course: <a href="https://github.com/DarkendHall/Slutprojekt_Java_EE">Slutprojekt_Java_EE</a></b></p>
         <p>We created a system for keeping track of the people attending and working at different schools. We set up a CI/CD pipeline, made it possible to send an email through a specific endpoint to all students in a specific course and made it so that when you create a new release a Docker image will be built and published to GitHub packages.</p>
         <br>
-        <p><b>Final project for the course Webservices: <a href="https://github.com/darkendhall/url_shortener">url_shortener</a></b></p>
-        <p>A simple URL shortener, there are three different implementations for this service. A Spring Boot version, a Micronaut version and a Quarkus version. The Spring Boot version is the most "simple" version, it only supports building the java code into a docker image. The Quarkus version is almost the same as the Spring Boot version except the ability to package the application into a native image which can then be put in a docker image. The final version, the Micronaut version, also supports building into a native image which can then be put in a docker image, but also includes Consul service discovery functionality.</p>
+        <p><b>Class project in "Java tools & Build environments" course: <a href="https://github.com/fungover/storm">Storm</a></b></p>
+        <p>A simple webserver implementation where we practiced using pull-requests, issues and a CI pipeline</p>
+        <br>
+        <p><b>Thesis Project</b></p>
+        <p>An application made with C# and WinForms. A GUI based application to increase the speed of configuring the installation of PowerShell AppDeployToolkit packages (PSADT).</p>
     </div>
 </div>
 
 ---
 
 <div>
-    <h3>Detailed list of things I have worked with and studied:</h3>
+    <h3>Detailed list of things I have worked with and/or studied:</h3>
     <br>    
     <div align="left">
     <ul>
@@ -90,6 +93,13 @@
             <li>JavaFX</li>
             <li>Hibernate</li>
             <li>JUnit5/Mockito/AssertJ</li>
+        </ul>
+        <br>
+        <li>C#</li>
+        <ul>
+            <li>WinForms</li>
+            <li>LINQ</li>
+            <li>Windows Installer XML (WiX) Toolkit</li>
         </ul>
         <br>
         <li>Database</li>
@@ -116,7 +126,7 @@
         <li>Webservices</li>
         <ul>
             <li>Microservice</li>
-            <li>RESTful API</li>
+            <li>RESTful APIs</li>
             <li>Swagger/OpenAPI</li>
         </ul>
         <br>
@@ -126,6 +136,7 @@
             <li>HTML</li>
             <li>CSS</li>
             <li>TypeScript/JavaScript</li>
+            <li>TypeORM</li>
         </ul>
         <br>
         <li>Other</li>
@@ -140,7 +151,6 @@
         <li>Some knowledge in</li>
         <ul>
             <li>C++</li>
-            <li>C#</li>
         </ul>
     </ul>
     </div>
