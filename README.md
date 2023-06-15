@@ -1,7 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <div align="center">
 <div>
-    <p>I am a recently graduated Java Developer. During my education I have worked in groups/teams in several of the projects. In these projects I have taken on a bit more of an administrative role. I made sure we had a plan before we started coding, I was usually the one who set up a CI/CD pipeline and made sure the GitHub issues/boards were always up-to-date. Whenever someone needed help, even if they were not a part of my group, I always tried to help them the best of I could.</p>
+    <p>I am a recently graduated Fullstack developer, specialized in Java. During my education I have worked in groups/teams in several of the projects. In these projects I have taken on a bit more of an administrative role. I made sure we had a plan before we started coding, I was usually the one who set up a CI/CD pipeline and made sure the GitHub issues/boards were always up-to-date. Whenever someone needed help, even if they were not a part of my group, I always tried to help them the best of I could.</p>
     <p>I like problem-solving, working in a team, and I'm always eager to learn and improve my skill set. <br>Some of my interests include gaming, programming, cars, motorcycles, ice hockey and floorball.</p>
     <br>
     <h4>Some of the things I have worked with:</h4>
