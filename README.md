@@ -17,7 +17,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/>
         <br>
-        <small><small>More detailed list further down.</small></small>
+        <small><small>More detailed list, <a href="#detailed-list-of-things-i-have-worked-with-andor-studied">here</a></small></small>
     </div>
     <br>
     <a href="#"><img src="https://github-readme-stats-six-mu-44.vercel.app/api?show=reviews%2Cprs_merged&hide=stars,contribs&theme=dark&username=darkendhall&show_icons=true" width="350" alt="GitHub stats"></a>
@@ -45,12 +45,6 @@
             <img src="https://img.shields.io/badge/Mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook logo"/>
         </a>
     </div>
-</div>
-
----
-
-<div>
-    <p>I am currently looking for employment!</p>
 </div>
 
 ---
