@@ -20,7 +20,7 @@
         <small><small>More detailed list further down.</small></small>
     </div>
     <br>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=darkendhall&show_icons=true&count_private=true&theme=dark" width="350" alt="GitHub stats"></a>
+    <a href="#"><img src="https://github-readme-stats-six-mu-44.vercel.app/api?show=reviews%2Cprs_merged&hide=stars,contribs&theme=dark&username=darkendhall&show_icons=true" width="350" alt="GitHub stats"></a>
     <div>
     <h4>My Setup:</h4>
     <div>
